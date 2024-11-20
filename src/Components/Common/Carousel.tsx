@@ -1,4 +1,4 @@
-import React,{ useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 // import Automobilesandparts from './../../assets/Automobilesandparts.png';
 // import BeautyProducts from './../../assets/BeautyProducts.png';
 // import ElectronicGadgets from './../../assets/ElectronicGadgets.png';
@@ -14,7 +14,7 @@ import Electronics from './../../assets/Carousel/Electronics.png';
 import Groceries from './../../assets/Carousel/Groceries.png';
 import { FaAngleLeft, FaAngleRight } from 'react-icons/fa';
 function Carousel() {
-    const [count, setCount] = useState(0)
+    // const [count, setCount] = useState(0)
   const images = [  
     
     // localcircle,

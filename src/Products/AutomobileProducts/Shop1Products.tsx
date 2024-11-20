@@ -1,4 +1,3 @@
-import React from 'react'
 import { BsSearch, BsHeartFill } from 'react-icons/Bs'
 import Header from '../../Components/Common/Header'
 import Footer from '../../Components/Common/Footer'

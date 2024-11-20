@@ -1,7 +1,5 @@
-import React from 'react'
 import Header from './Header'
 import Footer from './Footer'
-import { FaPencilAlt } from 'react-icons/fa'
 import { Link } from 'react-router-dom'
 import product from '../../assets/products/product1.jpg';
 

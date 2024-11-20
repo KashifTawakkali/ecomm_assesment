@@ -1,4 +1,3 @@
-import React from 'react'
 
 function Shop2Products() {
   return (

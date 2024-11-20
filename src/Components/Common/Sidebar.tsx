@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-unsafe-member-access */
 /* eslint-disable @typescript-eslint/no-unsafe-call */
 /* eslint-disable @typescript-eslint/no-unsafe-assignment */
-import React, { useEffect, useRef, useState } from 'react';
+import  { useEffect, useRef, useState } from 'react';
 import { FaShoppingCart, FaHandshake, FaTruck, FaBox, FaPlus } from 'react-icons/fa';
 import { Link, useLocation } from 'react-router-dom';
 

@@ -1,4 +1,4 @@
-import axios, { AxiosRequestConfig, InternalAxiosRequestConfig, AxiosHeaders } from 'axios';
+import axios, {  InternalAxiosRequestConfig, AxiosHeaders } from 'axios';
 
 // Define the base URL for the API
 const BASE_URL = 'https://api.escuelajs.co/api/v1';

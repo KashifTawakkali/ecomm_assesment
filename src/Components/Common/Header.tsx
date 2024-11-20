@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { BsFillPersonFill } from 'react-icons/Bs';
-import { FaCartPlus, FaHamburger, FaShoppingBag, FaShoppingBasket, FaShoppingCart } from 'react-icons/fa';
+import {  FaShoppingBag, FaShoppingCart } from 'react-icons/fa';
 import { HiMenu } from 'react-icons/hi';
 import { Link } from 'react-router-dom';
 

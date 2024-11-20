@@ -1,7 +1,6 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import { Link } from 'react-router-dom';
 // import LogoDark from '../../images/logo/logo-dark.svg';
-import Logo from './../assets/About/about.png';
 import React, { useState } from 'react';
 // import backgroundImage from './../assets/Background/bg2.png'
 
